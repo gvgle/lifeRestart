@@ -31,7 +31,7 @@ class App{
         const loadingPage = $(`
         <div id="main">
             <div id="title">
-                人生重开模拟器<br>
+                人生重开模tttttttttttttttttttt拟器<br>
                 <div style="font-size:1.5rem; font-weight:normal;">加载中...</div>
             </div>
         </div>
